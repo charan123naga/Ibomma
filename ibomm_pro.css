@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container-fluid{
+    background-color: black;
+}
+.container-fluid a {
+  color: yellow;
+  margin: 20px;
+}
+#navbarSupportedContent {
+  color: yellow;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.container {
+  width: 40vh;
+  height: 8vw;
+  margin: 150px;
+  bottom:50px ;
+  background-position: 200px;
+  text-align: center;
+  
+
+  display: inline;
+  display: flex;
+  flex-direction: column;
+  
+}
+img{
+  size:30px;
+  size-adjust: 200px;
+  height: 200px;
+  width: 200px;
+  background-image: cover;
+  
+}
+
+
